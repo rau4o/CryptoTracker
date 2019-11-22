@@ -9,6 +9,7 @@ target 'CryptoTracer' do
 
   pod 'Alamofire'
   pod 'Moya'
+  pod 'SwiftChart'
   target 'CryptoTracerTests' do
     inherit! :search_paths
     # Pods for testing
